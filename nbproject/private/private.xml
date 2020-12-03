@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PE_java-web/The_Hotel/web/view.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/HistoryDetailServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/room/RoomDAO.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/CartServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/ultil/DBHelper.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/discount.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/CreateDiscountServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/RatingServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/WEB-INF/log4j.properties</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/ultil/VerifyRecaptcha.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/show.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/DeleteBookingServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/HistoryServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/DeleteCartServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/SearchDateServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/login.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/cart/CartDAO.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/UseCodeServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/user/UserDAO.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/ResetServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/register.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/reset.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/UpdateOrderServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/CheckCodeServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/ChangePassServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/cart.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/CreateNewAccountServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/change.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/LogoutServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/ultil/SendMail.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/LoginServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/ShowHotelServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/user/UserDTO.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/SearchHotelServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/detail.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/web/history.jsp</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/ConfirmServlet.java</file>
+            <file>file:/D:/PE_java-web/The_Hotel/src/java/longtpmse140775/servlet/ShowRoomServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
